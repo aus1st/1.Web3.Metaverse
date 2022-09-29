@@ -1,0 +1,1 @@
+File math.js and favNumber.js are used for task # 10 (Comments)
